@@ -1,0 +1,26 @@
+Python is a programming language -  beginner friendly
+We use programming language to stablish rules or instructions to a computer.
+
+A string is a data type that consist of text. 
+
+Examples of strings = 
+
+print("Hello, World")
+output : Hello World
+
+When we print strings we can use double quotes or single quotes.
+
+Example of single quotes string = 
+
+print('Hello World')
+output : Hello World
+
+We can also use multiple line strings by using tripe quotes
+
+Example of tripe quotes strings = 
+
+print("""This is an example of a 
+triple string. We can continue to tell 
+more in multiple lines and have it as a string""")
+
+We can use new line and concatenate with strings + and \n
